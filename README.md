@@ -8,22 +8,9 @@ Through this project, I have created and hosted two sites based on different bus
 # 1 - WordPress Website
 The escalating trend of excessive apparel consumption has led to a pressing issue regarding the substantial amount of clothing discarded each year in developed countries. The countries I chose to focus on are Singapore, USA and Australia. I selected these places because the majority residing there chooses fast fashion over green fashion. I feel that this is done because of the extremely busy urban life that lead. With the large number of different meetings and events, working professionals, especially those aged between 25 and 40 years old, have a tendency of over-buying clothes. This also leads to more clothes being discarded, further leading to other problems such as pollution, deforestation, excessive water usage and waste management issues.
 
-##  The three main areas:  
-- SMART Goals
+##  The main areas:  
 - The 4 Ps: Product, Price, Place, and Promotion
 - STP: Segmentation, Targeting, Positioning
-
-## SMART Goals
-S - Specific:   
-
-M - Measurable:  
-
-A - Achievable:  
-
-R - Relevant:  
-
-T - Timely:  
-
 
 ## The 4Ps
 Product: The Product, I chose to base my business on, is sustainable clothing. Clothing that is made in an eco-friendly way and does not adversely affect the environment. 
@@ -70,22 +57,9 @@ I can confidently say that I have acquired enough industry relevant skills such 
 For the Joomla website, I chose to focus on sports gear since I was in my school's basketball team and had a deep interest for the sport. But, since the gear we used was of poor quality and expensive, I wanted to resolve this issue and make gear accessible to the athletes of the Sports School of Singapore or other people who are currently in their fitness journey. We have a wide range of sports gear and equipment such as running shoes, swimsuits and even cycles.
 
 
-##  The three main areas:  
-- SMART Goals
+##  The main areas:  
 - The 4 Ps: Product, Price, Place, and Promotion
 - STP: Segmentation, Targeting, Positioning
-
-## SMART Goals
-S - Specific:   
-
-M - Measurable:  
-
-A - Achievable:  
-
-R - Relevant:  
-
-T - Timely:  
-
 
 ## The 4Ps
 Product: The product in focus is the sports equipment and gear. This equipment is made to cater to athletes from midde income families. It is made of high quality and is available at an affordable price.
