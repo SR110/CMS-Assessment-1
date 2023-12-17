@@ -80,32 +80,36 @@ T - Timely:
 
 
 ## The 4Ps
-Product: 
+Product: The product in focus is the sports equipment and gear. This equipment is made to cater to athletes from midde income families. It is made of high quality and is available at an affordable price.
 
-Price:  
+Price: The price is reasonable for middle income groups and basically affordable for the majority.
 
-Place:  
+Place: The place of target is Singapore as that is my hometown and I want to help fellow Sinagporeans access high quality and affordable sports gear for better performance.
 
-Promotion:  
+Promotion: The promotional aspect is that athletes from Singapore Sports School use our equipment and it greatly helps in their training.
 
 
 ## STP
-Segmentation:  
+Segmentation: The group I chose to segment and delve into was the athletes who cannot afford extremely pricey gear and thus are not able to play and pursue their dream sport.
 
-Targeting:  
+Targeting: Athletes and Sportpersons from not-so-rich families are zeroed in on. This is to ensure that they are not at a disadvantage and are given an equal opportunity to perform in their field ie. sports.
 
-Positioning:  
+Positioning: Something we can flaunt about is the high quality we deliver. We never compromise on quality and deliver the best of the best.
 
 
 ## Learning Activities & Resources
+I have learnt a lot from this practical. I better understood how to use Joomla as a software. I learnt the art of trial and error. I learnt some new features and how to manoeuvre around the website. I learnt how to remove the Cassiopeia name and add the brand logo and some things about how to add images to media and then to articles.
 
 ## URLs:
 
 ## Estimated hours
+I spent roughly 2 days on this assignment. I had a tough time at first. But, eventually, found my way through it.
 
 ## Content Insights
+The content is bright and catchy. The text is relevant and attracts people to the site. It also will make them buy equipment as it is convincing and makes the equipment seem good. Since the video has been added about the sportsmen/sportswomen, it will draw customers to buy the gear.
 
 ## Career/Employability/Learning Insights
+It was a rewarding experience making this website and I feel more confident about doing more such projects in the future. I feel that this taught me the software well.
 
 # Credits:
 The videos in both the websites are from YouTube and belong to the Sports School Singapore (Joomla) and Visit Singapore (WordPress). The images are randomly taken from the internet and belong to the respective brands such as Decathlon.
