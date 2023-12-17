@@ -48,6 +48,14 @@ After having done the practical on WordPress, I was better equipped with the nec
 For hosting, I used Pantheon which was easy-to-use hosting platform recommended by my peer in Tutorial.
 
 ## URLs:
+- How to add an Animated Banner to Wordpress
+https://www.youtube.com/watch?v=xJY24kP8u7k
+- How to Add a Menu and Submenu Items to a WordPress Website
+https://www.youtube.com/watch?v=uNKyPkjKmEg
+- Launch Your Site on Pantheon
+https://www.youtube.com/watch?v=-8np882cqwA
+- How to Embed a YouTube Video in WordPress
+https://www.youtube.com/watch?v=Ir7J0eEuWgk
 
 ## Estimated hours
 The estimated time taken for the WordPress website is 2 days. I did a lot of research and faced a lot of setbacks. But, the experience was worthwhile and taught me a lot.
@@ -101,6 +109,14 @@ Positioning: Something we can flaunt about is the high quality we deliver. We ne
 I have learnt a lot from this practical. I better understood how to use Joomla as a software. I learnt the art of trial and error. I learnt some new features and how to manoeuvre around the website. I learnt how to remove the Cassiopeia name and add the brand logo and some things about how to add images to media and then to articles.
 
 ## URLs:
+- Joomla 3 Basics For Absolute Beginners - Creating drop down and sub menus
+https://www.youtube.com/watch?v=eWbwL_pEoUI
+- How to Show YouTube Videos in Joomla Articles
+https://www.youtube.com/watch?v=T9t--4RHrEI
+- Joomla 4 change default logo from Cassiopeia template
+https://www.youtube.com/watch?v=Pw1GR4fKJyg&t=157s
+- A Day In Our Lives - Singapore Sports School
+https://www.youtube.com/watch?v=nUhcy6AlN6w
 
 ## Estimated hours
 I spent roughly 2 days on this assignment. I had a tough time at first. But, eventually, found my way through it.
