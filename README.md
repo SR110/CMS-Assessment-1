@@ -12,18 +12,29 @@ Shreya Ranjan, 14229480
 ## SMART Goals
 S - Specific:  
 
-M - Measurable: 
-A - Achievable: 
-R - Realistic:
-T - Timely: 
+M - Measurable:  
+
+A - Achievable:  
+
+R - Realistic:  
+
+T - Timely:  
+
 
 ## The 4Ps
-Product: 
-Price:
-Place:
-Promotion:
+Product:  
+
+Price:  
+
+Place:  
+
+Promotion:  
+
 
 ## STP
-Segmentation:
-Targeting:
-Positioning: 
+Segmentation:  
+
+Targeting:  
+
+Positioning:  
+
