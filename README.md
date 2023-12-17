@@ -10,7 +10,8 @@ Shreya Ranjan, 14229480
 - STP: Segmentation, Targeting, Positioning
 
 ## SMART Goals
-S - Specific: 
+S - Specific:  
+
 M - Measurable: 
 A - Achievable: 
 R - Realistic:
